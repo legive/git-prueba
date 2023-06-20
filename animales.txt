@@ -1,3 +1,5 @@
 Perro
 Gato
 Gallo
+Perico
+pez
